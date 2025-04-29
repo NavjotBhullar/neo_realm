@@ -22,7 +22,6 @@
 
 ### Proximity Chat (distance-based interactive system)
 
-![image](https://user-images.githubusercontent.com/11501902/139960852-cf0e0883-8fbe-459d-bb11-3707d0ae1360.png)
 
 ### Multifunctional Rooms
 
